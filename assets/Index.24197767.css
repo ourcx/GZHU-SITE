@@ -6677,6 +6677,7 @@ button.swiper-pagination-bullet {
   .acticleWapper
   .acticleList[data-v-40681bb9] {
   list-style: none;
+  max-height: 4;
 }
 .sctionDisplay
   .sctionWapper
@@ -6685,7 +6686,7 @@ button.swiper-pagination-bullet {
   .acticleList
   .articleItem[data-v-40681bb9] {
   width: 100%;
-  height: 100%;
+  height: 8;
   display: block;
   border-bottom: 1px solid;
   border-image: linear-gradient(
@@ -6695,7 +6696,7 @@ button.swiper-pagination-bullet {
       rgba(70, 70, 70, 0) 100%
     )
     30 stretch;
-  color: #fff;
+  /* color: #fff; */
   margin-left: -5.5rem;
   padding: 1rem 0px;
 }
@@ -6706,7 +6707,7 @@ button.swiper-pagination-bullet {
   .acticleList
   .articleItem
   .acticleLink[data-v-40681bb9] {
-  padding-left: 5.5rem;
+  padding-left: 7.5rem;
   color: #fff;
   display: block;
   display: flex;
