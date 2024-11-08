@@ -11,3 +11,17 @@
 ![屏幕截图 2024-11-08 092736](https://free-img.400040.xyz/4/2024/11/08/672d691cc4bf1.jpg)
 
 ![屏幕截图 2024-11-08 092838](https://free-img.400040.xyz/4/2024/11/08/672d6956836cc.jpg)
+
+
+
+---
+
+补充站点05页面图集：见Index.5887384c.js line64和line129进行注释取消和对象替换并提交PR
+
+
+
+
+
+关注站长博客！加友链 https://zhongye1.github.io
+
+RSS订阅: https://zhongye1.github.io/atom.xml
