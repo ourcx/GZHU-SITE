@@ -1,4 +1,4 @@
-var ms = Object.defineProperty;
+var ms = Object.defineProperty;！
 var gs = (i, e, t) =>
   e in i
     ? ms(i, e, { enumerable: !0, configurable: !0, writable: !0, value: t })
